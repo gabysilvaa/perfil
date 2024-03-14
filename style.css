@@ -1,0 +1,79 @@
+/* Estilize o perfil aqui */
+.profile {
+    text-align:left;
+    padding: 20px;
+    background-color: rgb(165, 161, 161);
+    border: 1px solid rgb(62, 61, 61);
+    border-radius: 10px;
+}
+
+.profile img {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+
+}
+
+h2{
+text-align: center;
+margin-top: 20px;
+
+
+
+
+}
+
+
+
+
+.profile p {
+    font-size: 16px;
+    color: #151313;
+    text-align: center;
+display: flex;
+}
+
+
+#gatinhos {
+    align-items: left;
+    justify-content: left;
+}
+
+.social-icons{
+display: flex;
+align-items: left;
+ justify-content: left;
+height: 100px;
+ margin: 0;
+}
+
+.social-icons {
+display:flex;
+margin-inline-start: 530px;
+ 
+
+}
+
+.social-icons a {
+ margin-right: 30px;
+}
+
+
+
+
+#insta  {
+
+    width: 80px; /* Ajuste o tamanho conforme necessário */
+    height: 70px; /* Ajuste o tamanho conforme necessário */
+    border-radius:100;
+
+}
+
+#discord  {
+
+    width: 80px; /* Ajuste o tamanho conforme necessário */
+    height: 70px; /* Ajuste o tamanho conforme necessário */
+    border-radius: 100px;
+
+}
